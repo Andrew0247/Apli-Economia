@@ -1,0 +1,15 @@
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\bin\Debug\Aplicacion_IngEco.exe.config
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\bin\Debug\Aplicacion_IngEco.exe
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\bin\Debug\Aplicacion_IngEco.pdb
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\bin\Debug\Aplicacion_IngEco.xml
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\obj\Debug\Aplicacion_IngEco.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\obj\Debug\Aplicacion_IngEco.Form1.resources
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\obj\Debug\Aplicacion_IngEco.Resources.resources
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\obj\Debug\Aplicacion_IngEco.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\obj\Debug\Aplicacion_IngEco.exe
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\obj\Debug\Aplicacion_IngEco.xml
+C:\Users\Pablo\Desktop\4 Semestre\Orientadas a Eventos\Aplicacion_IngEco\Aplicacion_IngEco\obj\Debug\Aplicacion_IngEco.pdb
+D:\IV semestre\4 semestre\Aplicacion_IngEco\Aplicacion_IngEco\bin\Debug\Aplicacion_IngEco.exe.config
+D:\IV semestre\4 semestre\Aplicacion_IngEco\Aplicacion_IngEco\obj\Debug\Aplicacion_IngEco.exe
+D:\IV semestre\4 semestre\Aplicacion_IngEco\Aplicacion_IngEco\obj\Debug\Aplicacion_IngEco.xml
+D:\IV semestre\4 semestre\Aplicacion_IngEco\Aplicacion_IngEco\obj\Debug\Aplicacion_IngEco.pdb
